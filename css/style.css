@@ -28,11 +28,9 @@ body{
 div h1{
     text-transform: capitalize;
     font-variant: small-caps;
-    text-indent: 1px;
     font-size: 2.4em;
     font-family: "Sofia",sans-serif;
     text-shadow: 3px 3px 3px #201f4e;
-
 }
 
 #list li a:hover{
@@ -46,6 +44,10 @@ button{
   color: #EB3044;
  margin-top: 1em;
  box-shadow: 3px 3px 3px #201f4e;
+ outline: #201f4e;
+ font-weight: bolder;
+ font-variant: small-caps;
+ font-family: monospace;
 
 }
 #btn{
@@ -53,10 +55,22 @@ button{
     margin-left: 40px;
     margin-top: 1em;
     box-shadow: 3px 3px 3px #201f4e;
+    outline: #FFAABD;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-family: monospace;
 
 }
 #list li{
     margin-top: 1em;
     margin-right: 1em;
    
+} 
+div #words{
+    margin-bottom: 1em;
+    color: black;
+}
+h5{
+margin: 1em;
+margin-top: 40px;
 }
