@@ -75,6 +75,12 @@ div #words{
 margin: 1em;
  margin-top: 3em;
  font-family: sans-serif;
+ /* letter-spacing: 1px; */
+ line-height: 26px;
+ font-weight: bolder;
+ font-variant: small-caps;
+ font-family: serif;
+ font-size: 1.5em;
 }
 div img{
     float: right;
