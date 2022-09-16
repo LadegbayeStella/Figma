@@ -90,3 +90,17 @@ div img{
  div #btn1{
     color: #EB3044;
 }
+div #ptag{
+    display: inline-flex;
+    padding-left: 60px;
+    margin-left: 170px;
+}#post{
+    margin-left: 18em;
+    background-color: #EB3044;
+    color: aliceblue;
+    height: 40px;
+}
+#mydiv{
+    background-color: #FFAABD;
+    /* width: 70%; */
+}
