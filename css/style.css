@@ -1,0 +1,62 @@
+body{
+   box-sizing: border-box; 
+   padding: 0;
+   margin: 0;
+   left: 0;
+   right: 0;
+}
+#list{
+    list-style: none;
+ display: flex;
+ 
+}
+
+.container-fluid{
+    background-color: #EB3044;
+    /* width: 100%; */
+}
+#list li a{
+    text-decoration: none;
+    padding: 10px;
+    color: ghostwhite;
+    font-family: monospace;
+    font-weight: bolder;
+    padding-top: 1em;
+    font-size: 15px;
+
+}
+div h1{
+    text-transform: capitalize;
+    font-variant: small-caps;
+    text-indent: 1px;
+    font-size: 2.4em;
+    font-family: "Sofia",sans-serif;
+    text-shadow: 3px 3px 3px #201f4e;
+
+}
+
+#list li a:hover{
+    color: #201f4e;
+}
+button{
+    height: 1.9em;
+ padding-left: 1em;
+ margin-bottom: 1.5em;
+  background-color: #FFAABD;
+  color: #EB3044;
+ margin-top: 1em;
+ box-shadow: 3px 3px 3px #201f4e;
+
+}
+#btn{
+    background-color: ghostwhite;
+    margin-left: 40px;
+    margin-top: 1em;
+    box-shadow: 3px 3px 3px #201f4e;
+
+}
+#list li{
+    margin-top: 1em;
+    margin-right: 1em;
+   
+}
