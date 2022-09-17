@@ -32,6 +32,7 @@ div h1{
     font-size: 2.4em;
     font-family: "Sofia",sans-serif;
     text-shadow: 3px 3px 3px #201f4e;
+    margin-bottom: 50px;
 }
 
 #list li a:hover{
@@ -104,3 +105,66 @@ div #ptag{
     background-color: #FFAABD;
     /* width: 70%; */
 }
+
+div #time{
+    display: inline-block;
+    margin: 20px;
+    padding-left: 100px;
+ }div .name{
+    padding-left: 100px;
+    text-align: center;
+   /* float: right; */
+padding-right: 10px;
+    
+    
+} .container1{
+    background-color: #FFAABD;
+    height:10em;
+    border-radius: 1.5em;
+     width: 23em; 
+    padding: 30px;
+    margin-left: 40px;
+  
+}
+/* .container2{
+    background-color: #FFAABD;
+    margin-left: 270px;
+    border-radius: 1.5em;
+    width:23em ;
+}
+#center2{
+    justify-content: baseline;
+    padding-left: 40px;
+} */
+ .fill label img{
+    width: 50px;
+  margin-right: -600px;
+ padding-bottom: 900px;
+ position: relative;
+}  
+
+.modal-sheet .modal-dialog {
+    width: 380px;
+    transition: bottom .75s ease-in-out;
+  }
+  #btn1{
+    background-color: #201f4e;
+    
+  }
+ .modal-body{
+  display: none;
+  }
+  .modal-signin{
+    display: none;
+  }
+  center #clabs{
+    background-color: #FFAABD;
+    height: 10em;
+    border-radius: 1em;
+    width: 21em;
+    display: inline-block;
+    /* justify-content: center;
+    align-items: center;
+    text-align: center; */
+    margin-left: 1em;
+  }
